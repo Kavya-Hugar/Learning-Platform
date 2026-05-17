@@ -92,7 +92,7 @@ Frontend runs on: `http://localhost:3000`
 ## 🌐 Live Deployment
 
 ### Frontend (Vercel)
-- **URL**: [Your Vercel URL]
+- **URL**: learning-platform-two-lovat.vercel.app
 - **Status**: 🟢 Live
 - **Deployed from**: `frontend/` directory
 
